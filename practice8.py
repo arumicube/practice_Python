@@ -32,6 +32,7 @@ if(K<=N and N<=10):
 import sys
 input=sys.stdin.readline #이건 또 뭐야.. 근데 이거 없으면 채점이 걍 안됨.... 
 #----------------모름------------------#
+#참고 https://kill-xxx.tistory.com/entry/Python-%EB%B0%B1%EC%A4%80-10989%EB%B2%88-%EC%88%98-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0-3-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%B4%88%EA%B3%BC-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0
 
 N=int(input())
 num=[0]*(10000+1) #최대 입력수
