@@ -55,7 +55,6 @@ def Factorial(n):
 
 num=int(input())
 Fac=Factorial(num)
-print(Fac)
 cnt=0
 while (Fac%10 == 0):
     cnt+=1
